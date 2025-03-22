@@ -1,0 +1,7 @@
+C:\Users\GG\Desktop\C#\list editing app\bin\Debug\list editing app.exe.config
+C:\Users\GG\Desktop\C#\list editing app\bin\Debug\list editing app.exe
+C:\Users\GG\Desktop\C#\list editing app\bin\Debug\list editing app.pdb
+C:\Users\GG\Desktop\C#\list editing app\obj\Debug\list editing app.csproj.AssemblyReference.cache
+C:\Users\GG\Desktop\C#\list editing app\obj\Debug\list editing app.csproj.CoreCompileInputs.cache
+C:\Users\GG\Desktop\C#\list editing app\obj\Debug\list editing app.exe
+C:\Users\GG\Desktop\C#\list editing app\obj\Debug\list editing app.pdb
